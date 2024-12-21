@@ -1,0 +1,11 @@
+{
+  "prerun": "# some code here",
+  "directory": "migrations",
+  "history": "migratehistory",
+  "models": [
+    "app.database.models.UserInfo",
+    "app.database.models.Book",
+    "app.database.models.Downloads",
+    "app.database.models.Suggestions"
+  ]
+}
